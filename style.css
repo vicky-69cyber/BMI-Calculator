@@ -64,6 +64,7 @@ body{
     background: #6047DF;
     color: #E5CCC3;
     transition: 0.25s;
+    margin: 10px;
 }
 
 .container button:hover{
