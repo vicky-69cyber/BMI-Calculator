@@ -13,3 +13,7 @@ function calculatebmi() {
     document.getElementById("result").innerHTML =
         `Your BMi is: ${bmi.toFixed(2)}`;
 }
+
+function resetbmi(){
+    document.getElementById("result").innerHTML=``
+}
